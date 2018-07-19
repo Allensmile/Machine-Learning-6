@@ -50,4 +50,5 @@ To render equations on Chrome, please use [GitHub with MathJax](https://chrome.g
     * [Become a Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
     * [Deep Learning A-Z™: Hands-On Artificial Neural Networks by Kirill Eremenko](https://www.udemy.com/deeplearning/?siteID=SAyYsTvLiGQ-hAlgTfjbrcNP8FjIixIDQw&LSNPUBID=SAyYsTvLiGQ)
 * Links:
-  * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+  * [Machine Learning Glossary by Google](https://developers.google.com/machine-learning/glossary/)
+  * [MACHINE LEARNING 501 by Intel](https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501)
