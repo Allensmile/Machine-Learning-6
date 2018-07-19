@@ -43,6 +43,7 @@ To render equations on Chrome, please use [GitHub with MathJax](https://chrome.g
 * Online Courses:
   * Free:
     * [Machine Learning by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
+    * [Deep Learning by fast.ai (CNN, RNN, CV, NLP, recommendation systems, Pytorch, time seies, and much more)](http://course.fast.ai/lessons/lessons.html)
     * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     * [Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
     * [Introduction to Machine Learning by Vinod Venkatraman](https://gl4l.greatlearning.in/machine-learning-Intro/)
@@ -52,3 +53,4 @@ To render equations on Chrome, please use [GitHub with MathJax](https://chrome.g
 * Links:
   * [Machine Learning Glossary by Google](https://developers.google.com/machine-learning/glossary/)
   * [MACHINE LEARNING 501 by Intel](https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501)
+  * [Learn Python, Machine Learning, Pandas, Data Visualisation, SQL, R, and Deep Learning ](https://www.kaggle.com/learn/overview)
