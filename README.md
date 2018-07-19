@@ -1,6 +1,8 @@
 # Machine Learning
 In this repo, you will find all the resources to learn machine learning based on my ML course at my university and what I have found useful to share.
 
+To render equations on Chrome, please use [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima).
+
 ## Phase 0: Requirements
 * Basic python experience
 * Basic probability understanding
